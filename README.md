@@ -1,4 +1,4 @@
-### KodireLL
+### 💻 KodireLL 💻
 
 Software engineer with 4 years of commercial experience
 <!--
