@@ -2,17 +2,7 @@
 
 Software engineer with 4 years of commercial experience
 
-<p align = 'center'>
-<a href="https://github.com/kodirell/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodirell&layout=compact" /></a>
-</p>
 
-<p align='center'>
-  <a href="https://t.me/KodireLL" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-
-  📫  How to reach me: <a href='mailto:kodirell@gmail.com'>kodirell@gmail.com</a>
-</p>
 
 ## 🔑 Key points
 
@@ -27,7 +17,15 @@ Software engineer with 4 years of commercial experience
 *   Team Work - GitHub | GitLab
 *   Other - JQuery, MVC-pattern
 
+<p align = 'center'>
+<a href="https://github.com/kodirell/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodirell&layout=compact" /></a>
+</p>
 
+<p align='center'>
+  <a href="https://t.me/KodireLL" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 <!--
 **KodireLL/KodireLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
