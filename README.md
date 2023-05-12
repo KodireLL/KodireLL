@@ -4,8 +4,9 @@ Software engineer with 4 years of commercial experience
 
 ## 🔑 Key points
 
-* Fullstack PHP | WEB developer<br>
-* Cyber security<br>
+* One of the developers of the [BSS-community](https://ru.bss.vc)
+* Fullstack PHP | WEB developer
+* Cyber security
 
 ## 🛠 Technical Stack
 *   Languages - [ Java | C# | PHP | JavaScript ] 
