@@ -1,5 +1,6 @@
-### Hi there 👋
+### KodireLL
 
+Software engineer with 4 years of commercial experience
 <!--
 **KodireLL/KodireLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
