@@ -2,11 +2,17 @@
 
 Software engineer with 4 years of commercial experience
 
-🔑 Fullstack PHP/WEB developer<br>
+🔑 Fullstack PHP | WEB developer<br>
 🔑 Cyber security<br>
 
 ## 🛠 Technical Stack
-<br>
+*   Languages - [ Java | C# | PHP | JavaScript ] 
+*   DataBases - [ MySQL | PhpMyAdmin | PostgreSQL ]
+*   Integration - Telegram Bot API | XenForo 2
+*   Team Work - GitHub | GitLab
+*   Other - JQuery, MVC-pattern
+
+
 <!--
 **KodireLL/KodireLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
