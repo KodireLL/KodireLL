@@ -6,7 +6,7 @@ Software engineer with 4 years of commercial experience
 🔑 Cyber security<br>
 
 ## Technical Stack
-<br><hr><br>
+<br>
 <!--
 **KodireLL/KodireLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
