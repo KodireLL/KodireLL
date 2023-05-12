@@ -2,8 +2,10 @@
 
 Software engineer with 4 years of commercial experience
 
-🔑 Fullstack PHP | WEB developer<br>
-🔑 Cyber security<br>
+## 🔑 Key points
+
+* Fullstack PHP | WEB developer<br>
+* Cyber security<br>
 
 ## 🛠 Technical Stack
 *   Languages - [ Java | C# | PHP | JavaScript ] 
